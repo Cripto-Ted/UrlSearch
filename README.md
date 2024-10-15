@@ -25,7 +25,7 @@ cd UrlSearch
 
 Запустите скрипт:
 ```bash
-python urlsearch.py
+python UrlSearch.py
 ```
 
 # Примечания
