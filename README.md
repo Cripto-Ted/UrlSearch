@@ -20,12 +20,12 @@ pip3 install requests beautifulsoup4
 
 Откройте терминал или командную строку и перейдите в директорию, где находится скрипт.
 ```bash
-cd UrlSearch
+cd UrlSearch-main
 ```
 
 Запустите скрипт:
 ```bash
-python UrlSearch.py
+python3 UrlSearch.py
 ```
 
 # Примечания
