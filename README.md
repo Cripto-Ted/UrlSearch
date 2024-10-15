@@ -11,7 +11,7 @@
 Перед использованием скрипта убедитесь, что у вас установлены необходимые библиотеки. Вы можете установить их с помощью pip:
 
 ```bash
-pip install requests beautifulsoup4
+pip3 install requests beautifulsoup4
 ```
 
 # Использование
